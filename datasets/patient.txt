@@ -1,0 +1,11 @@
+patient_id#Pregnancies#Glucose#BloodPressure#SkinThickness#Insulin#DiabetesPedigreeFunction#Outcome
+
+163#0#114#80#34#285#0.167#0
+
+348#3#116#0#0#0#0.187#0
+
+395#4#158#78#0#0#0.803#1
+
+187#8#181#68#36#495#0.615#1
+
+342#1#95#74#21#73#0.673#0
